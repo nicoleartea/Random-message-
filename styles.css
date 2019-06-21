@@ -1,0 +1,33 @@
+body{
+  background-image: linear-gradient( to right , #248376 , #9FF8eb , #9FF8EB);
+border:5px solid black;
+
+
+}
+h1{
+  text-align: center;
+  text-decoration: overline;
+  text-decoration: underline;
+  font-size: 60px
+  color:#892C76
+}
+h2{
+  text-align: center;
+  font-family: 'Mali', cursive;
+  color: #892C76
+
+}
+
+button{
+  text-align: center;
+}
+.class{
+  border: 10px solid black;
+}
+p{
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  color: #073379;
+  font-size: 30px;
+}
